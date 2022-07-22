@@ -9,10 +9,9 @@
 
 - 📫 Contato **wgtsantos@gmail.com**
 
-<div align="center">
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wgtsantos&show_icons=true&locale=en&layout=compact" alt="wgtsantos" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wgtsantos&show_icons=true&locale=en" alt="wgtsantos" />
-</div>
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wgtsantos&theme=default" alt="wgtsantos" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
