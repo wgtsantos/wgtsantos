@@ -10,8 +10,8 @@
 - 📫 Contato **wgtsantos@gmail.com**
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wgtsantos&show_icons=true&locale=en&layout=compact" alt="wgtsantos" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wgtsantos&show_icons=true&locale=en" alt="wgtsantos" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wgtsantos&show_icons=true&locale=en&layout=compact" alt="wgtsantos" />
+<img src="https://github-readme-stats.vercel.app/api?username=wgtsantos&show_icons=true&locale=en" alt="wgtsantos" />
 </div>
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wgtsantos&theme=default" alt="wgtsantos" /> </p>
 
