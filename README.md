@@ -12,7 +12,7 @@
 <div style="float:left;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wgtsantos&show_icons=true&locale=en&layout=compact" alt="wgtsantos" />
 </div>
-<div style="float:right;">
+<div style="float:right; width:100%;">
 <img src="https://github-readme-stats.vercel.app/api?username=wgtsantos&show_icons=true&locale=en" alt="wgtsantos" />
 </div>
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wgtsantos&theme=default" alt="wgtsantos" /> </p>
