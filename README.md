@@ -26,4 +26,4 @@
 <a href="https://fb.com/wgtsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wgtsantos" height="30" width="40" /></a>
 <a href="https://instagram.com/wgtsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wgtsantos" height="30" width="40" /></a>
 </p>
- (https://github.com/wgtsantos/github-workflows/blob/output/github-contribution-grid-snake.svg)
+ <img src="https://github.com/wgtsantos/github-workflows/blob/output/github-contribution-grid-snake.svg"/>
